@@ -289,6 +289,12 @@ h2{
     align-items: center;
     background-color: #90c3ce;
 }
+
+.video{
+    height: 45vh;
+    width: 45%;
+    justify-content: center;
+}
 .top-left{
     width: 50%;
     height: 50vh;
