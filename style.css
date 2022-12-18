@@ -265,7 +265,7 @@ body {
 }
 .el:nth-child(1) .el__bg:before {
   transition-delay: 0s;
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/onepgscr-3.jpg");
+  background-image: url("pianobig.jpg");
 }
 .el:nth-child(2) {
   transform: translate3d(105.2083333333%, 0, 0);
@@ -284,7 +284,7 @@ body {
 }
 .el:nth-child(2) .el__bg:before {
   transition-delay: 0.1s;
-  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/onepgscr-4.jpg");
+  background-image: url("guitar123.jpg");
 }
 .el:nth-child(3) {
   transform: translate3d(210.4166666667%, 0, 0);
