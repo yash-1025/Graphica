@@ -249,14 +249,14 @@ h2{
 }
 .g-text{
     font-family: "Century Gothic";
-    width: 50vw;
+    width: 100vw;
     height: 1vh;
     flex-grow: 3;
     font-size: 1.25rem;
     padding-top: 3.2vh;
     display: flex;
-    padding-left: 2.5vw;
-    padding-bottom: 11vh;
+    padding-left: 5vw;
+    padding-bottom: 5vh;
 }
 
 @keyframes genre-hover{
